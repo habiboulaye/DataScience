@@ -41,4 +41,4 @@
 >> make
 
 // 2.2 Test example
->> cat Test/Affinity.data | test1
+>> cat Affinity.sample.data | Solution4
