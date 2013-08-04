@@ -8,7 +8,7 @@ Select branch DataScience/Affinity or url https://github.com/habiboulaye/DataSci
     Read README.affinity_problem.txt  (problem statement)
     Read README.affinity_solution.txt (simple solution description)
 
-To build a powerful Recommendation Systems, More efficient solutions can be proposed using 
+To build powerful Recommendation Systems, more efficient solutions can be implemented by using 
 Machine Learning approaches: 
   - Clustering/Classification (eg. Support Vector Machines)
   - Sequences prediction (eg. Markov Models)
