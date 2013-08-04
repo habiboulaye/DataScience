@@ -16,6 +16,6 @@ Select branch DataScience/Affinity or url https://github.com/habiboulaye/DataSci
 
 Select branch DataScience/pyDensity or url https://github.com/habiboulaye/DataScience/tree/pyDensity
 
-README.density.md
+    README.density.txt
 
 
