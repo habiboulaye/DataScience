@@ -8,6 +8,9 @@ points reported from cabs across Paris e.g. 51.510772,-0.114756.
 Density.py program processes the points and generates an image showing 
 their density heatmap with zooming functionality.
 
+@version: 1.0
+@author: Habib
+@contact: Habiboulaye@gmail.com
 
 """
 import os
