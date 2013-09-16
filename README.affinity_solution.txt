@@ -42,3 +42,4 @@
 
 // 2.2 Test example
 >> cat Affinity.sample.data | Solution4
+
